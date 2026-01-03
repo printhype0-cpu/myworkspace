@@ -5,7 +5,7 @@ npm warn Unknown env config "python". This will stop working in the next major v
 
    ▲ Next.js 16.0.7 (Turbopack)
    - Local:         http://localhost:3000
-   - Network:       http://10.16.6.52:3000
+   - Network:       http://10.16.25.172:3000
 
  ✓ Starting...
 Attention: Next.js now collects completely anonymous telemetry regarding usage.
@@ -13,6 +13,14 @@ This information is used to shape Next.js' roadmap and prioritize features.
 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
 https://nextjs.org/telemetry
 
- ✓ Ready in 1325ms
+ ✓ Ready in 1332ms
  ○ Compiling / ...
- GET / 200 in 5.1s (compile: 4.9s, render: 226ms)
+ GET / 200 in 4.3s (compile: 4.1s, render: 218ms)
+ GET / 200 in 89ms (compile: 8ms, render: 81ms)
+ GET /services 200 in 594ms (compile: 479ms, render: 115ms)
+ GET / 200 in 80ms (compile: 7ms, render: 73ms)
+ GET /about 200 in 534ms (compile: 449ms, render: 86ms)
+ GET /services 200 in 66ms (compile: 5ms, render: 61ms)
+ GET /case-studies 200 in 510ms (compile: 433ms, render: 77ms)
+ GET /blog 200 in 495ms (compile: 391ms, render: 103ms)
+ GET /contact 200 in 1521ms (compile: 1310ms, render: 211ms)
