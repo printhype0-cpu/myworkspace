@@ -1,0 +1,15 @@
+npm warn Unknown env config "python". This will stop working in the next major version of npm.
+
+> nextjs@0.1.0 dev
+> next dev
+
+   ▲ Next.js 16.0.7 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://10.16.89.175:3000
+
+ ✓ Starting...
+ ✓ Ready in 1101ms
+ ○ Compiling / ...
+ GET / 200 in 3.8s (compile: 3.6s, render: 195ms)
+ GET / 200 in 69ms (compile: 8ms, render: 61ms)
+[?25h
