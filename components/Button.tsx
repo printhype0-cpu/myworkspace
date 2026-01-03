@@ -22,9 +22,9 @@ const Button = ({
   const baseStyles = 'inline-block font-medium rounded-full transition-all duration-200 text-center';
   
   const variants = {
-    primary: 'bg-[#FF6B35] text-white hover:bg-[#e55f2f] shadow-md hover:shadow-lg',
-    secondary: 'bg-[#0066CC] text-white hover:bg-[#0052a3] shadow-md hover:shadow-lg',
-    outline: 'border-2 border-[#0066CC] text-[#0066CC] hover:bg-[#0066CC] hover:text-white',
+    primary: 'bg-gradient-to-r from-[#FF6B35] to-[#e55f2f] text-white shadow-lg hover:shadow-xl hover:from-[#e55f2f] hover:to-[#d95325]',
+    secondary: 'bg-gradient-to-r from-[#0066CC] to-[#0055aa] text-white shadow-lg hover:shadow-xl hover:from-[#0055aa] hover:to-[#004488]',
+    outline: 'border-2 border-[#0066CC] text-[#0066CC] hover:bg-[#0066CC] hover:text-white hover:shadow-md',
   };
   
   const sizes = {
