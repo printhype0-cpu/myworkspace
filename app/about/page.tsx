@@ -82,21 +82,21 @@ export default function AboutPage() {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                Our Story
+                The Journey of Amod Kumar
               </h2>
               <div className="space-y-8">
                 <div className="flex gap-8 items-start">
                   <div className="flex-shrink-0">
                     <div className="w-12 h-12 bg-[#0066CC] text-white rounded-full flex items-center justify-center font-bold">
-                      2009
+                      2016
                     </div>
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                      The Beginning
+                      The Vision
                     </h3>
                     <p className="text-gray-600">
-                      Founded by a group of digital marketing enthusiasts who saw the potential of online marketing to transform businesses. Started with just 3 team members and 5 clients.
+                      Amod Kumar started his journey with a simple vision: to bridge the gap between businesses and their digital potential. Focusing on data-driven SEO and ROI-focused marketing.
                     </p>
                   </div>
                 </div>
@@ -104,15 +104,15 @@ export default function AboutPage() {
                 <div className="flex gap-8 items-start">
                   <div className="flex-shrink-0">
                     <div className="w-12 h-12 bg-[#FF6B35] text-white rounded-full flex items-center justify-center font-bold">
-                      2014
+                      2019
                     </div>
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                      Rapid Growth
+                      Expansion
                     </h3>
                     <p className="text-gray-600">
-                      Expanded our services to include comprehensive SEO, PPC, and social media management. Team grew to 25 members serving over 100 clients across various industries.
+                      As the digital landscape evolved, so did we. Expanding into full-scale PPC management and social media strategies, helping over 200 businesses scale their online presence.
                     </p>
                   </div>
                 </div>
@@ -120,15 +120,15 @@ export default function AboutPage() {
                 <div className="flex gap-8 items-start">
                   <div className="flex-shrink-0">
                     <div className="w-12 h-12 bg-[#0066CC] text-white rounded-full flex items-center justify-center font-bold">
-                      2019
+                      2021
                     </div>
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                      Industry Recognition
+                      Expert Recognition
                     </h3>
                     <p className="text-gray-600">
-                      Awarded &quot;Top Digital Marketing Agency&quot; by industry publications. Launched our proprietary analytics platform to provide clients with real-time insights.
+                      Recognized as a leading expert in ROI-driven marketing. We reached a milestone of delivering over 300% average ROI for our clients across various industries.
                     </p>
                   </div>
                 </div>
@@ -141,10 +141,10 @@ export default function AboutPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>
-                      Today
+                      Continuous Growth
                     </h3>
                     <p className="text-gray-600">
-                      Now serving 500+ clients worldwide with a team of 50+ digital marketing experts. Continuing to innovate and deliver exceptional results for businesses of all sizes.
+                      Today, Amod Kumar and his team serve 500+ successful projects, maintaining the same passion for excellence and data-driven results that started it all 8 years ago.
                     </p>
                   </div>
                 </div>
@@ -157,36 +157,36 @@ export default function AboutPage() {
         <section className="py-20">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center" style={{ fontFamily: 'Poppins, sans-serif' }}>
-              Our Achievements
+              Our Success in Numbers
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
               <div className="text-center">
                 <div className="inline-flex items-center justify-center w-16 h-16 bg-[#0066CC]/10 rounded-full mb-4">
-                  <Users className="text-[#0066CC]" size={32} />
+                  <TrendingUp className="text-[#0066CC]" size={32} />
                 </div>
-                <h3 className="text-4xl font-bold text-[#0066CC] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>500+</h3>
-                <p className="text-gray-600">Clients Served</p>
+                <h3 className="text-4xl font-bold text-[#0066CC] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>300%</h3>
+                <p className="text-gray-600">Average ROI for Clients</p>
               </div>
               <div className="text-center">
                 <div className="inline-flex items-center justify-center w-16 h-16 bg-[#FF6B35]/10 rounded-full mb-4">
-                  <TrendingUp className="text-[#FF6B35]" size={32} />
+                  <Users className="text-[#FF6B35]" size={32} />
                 </div>
-                <h3 className="text-4xl font-bold text-[#FF6B35] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>250%</h3>
-                <p className="text-gray-600">Avg. Traffic Growth</p>
+                <h3 className="text-4xl font-bold text-[#FF6B35] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>500+</h3>
+                <p className="text-gray-600">Successful Projects</p>
               </div>
               <div className="text-center">
                 <div className="inline-flex items-center justify-center w-16 h-16 bg-[#0066CC]/10 rounded-full mb-4">
                   <Award className="text-[#0066CC]" size={32} />
                 </div>
-                <h3 className="text-4xl font-bold text-[#0066CC] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>25+</h3>
-                <p className="text-gray-600">Industry Awards</p>
+                <h3 className="text-4xl font-bold text-[#0066CC] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>8+</h3>
+                <p className="text-gray-600">Years of Experience</p>
               </div>
               <div className="text-center">
                 <div className="inline-flex items-center justify-center w-16 h-16 bg-[#FF6B35]/10 rounded-full mb-4">
                   <Target className="text-[#FF6B35]" size={32} />
                 </div>
-                <h3 className="text-4xl font-bold text-[#FF6B35] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>98%</h3>
-                <p className="text-gray-600">Client Retention</p>
+                <h3 className="text-4xl font-bold text-[#FF6B35] mb-2" style={{ fontFamily: 'Poppins, sans-serif' }}>100%</h3>
+                <p className="text-gray-600">Data-Driven Strategy</p>
               </div>
             </div>
           </div>

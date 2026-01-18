@@ -18,22 +18,22 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Digital Marketing Agency | SEO, Google Ads, Social Media Marketing",
-  description: "Maximize your ROI with expert digital marketing services. We specialize in SEO, Google Ads, Social Media Marketing, Content Creation, and Analytics.",
-  keywords: ["digital marketing", "SEO", "Google Ads", "social media marketing", "content creation", "analytics", "PPC"],
-  authors: [{ name: "Digital Marketing Agency" }],
+  title: "Amod Kumar | SEO, Google Ads & Social Media Marketing Expert",
+  description: "Grow your business with Amod Kumar, a digital marketing expert. Get 300% ROI with proven SEO, PPC, and Social Media strategies.",
+  keywords: ["Amod Kumar", "digital marketing", "SEO expert", "Google Ads", "social media marketing", "PPC", "ROI driven marketing"],
+  authors: [{ name: "Amod Kumar" }],
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://digitalmarketingagency.com",
-    title: "Digital Marketing Agency | SEO & Google Ads Experts",
-    description: "Maximize your ROI with expert digital marketing services.",
-    siteName: "Digital Marketing Agency",
+    url: "https://amodkumar.com",
+    title: "Amod Kumar | Digital Marketing Expert",
+    description: "Maximize your ROI with expert digital marketing services from Amod Kumar.",
+    siteName: "Amod Kumar Digital Marketing",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Digital Marketing Agency | SEO & Google Ads Experts",
-    description: "Maximize your ROI with expert digital marketing services.",
+    title: "Amod Kumar | Digital Marketing Expert",
+    description: "Maximize your ROI with expert digital marketing services from Amod Kumar.",
   },
 };
 

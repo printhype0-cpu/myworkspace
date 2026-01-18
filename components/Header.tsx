@@ -36,7 +36,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
             <div className="text-2xl font-bold text-[#0066CC]" style={{ fontFamily: 'Poppins, sans-serif' }}>
-              DMA<span className="text-[#FF6B35]">.</span>
+              AMOD<span className="text-[#FF6B35]">KUMAR</span>
             </div>
           </Link>
 

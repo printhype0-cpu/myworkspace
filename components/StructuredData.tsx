@@ -2,10 +2,10 @@ export default function StructuredData() {
   const organizationSchema = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "Digital Marketing Agency",
-    "url": "https://digitalmarketingagency.com",
-    "logo": "https://digitalmarketingagency.com/logo.png",
-    "description": "Expert digital marketing services including SEO, Google Ads, Social Media Marketing, Content Creation, and Analytics.",
+    "name": "Amod Kumar Digital Marketing",
+    "url": "https://amodkumar.com",
+    "logo": "https://amodkumar.com/logo.png",
+    "description": "Expert digital marketing services by Amod Kumar including SEO, Google Ads, Social Media Marketing, Content Creation, and Analytics.",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "123 Marketing Street",
@@ -18,15 +18,15 @@ export default function StructuredData() {
       "@type": "ContactPoint",
       "telephone": "+1-555-123-4567",
       "contactType": "Customer Service",
-      "email": "info@dma.com",
+      "email": "hello@amodkumar.com",
       "areaServed": "US",
       "availableLanguage": "English"
     },
     "sameAs": [
-      "https://www.facebook.com/digitalmarketingagency",
-      "https://www.twitter.com/dmagency",
-      "https://www.linkedin.com/company/digitalmarketingagency",
-      "https://www.instagram.com/dmagency"
+      "https://www.facebook.com/amodkumar",
+      "https://www.twitter.com/amodkumar",
+      "https://www.linkedin.com/in/amodkumar",
+      "https://www.instagram.com/amodkumar"
     ]
   };
 
@@ -36,7 +36,7 @@ export default function StructuredData() {
     "serviceType": "Digital Marketing Services",
     "provider": {
       "@type": "Organization",
-      "name": "Digital Marketing Agency"
+      "name": "Amod Kumar Digital Marketing"
     },
     "areaServed": {
       "@type": "Country",

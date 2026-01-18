@@ -1,14 +1,14 @@
 export const teamMembers = [
   {
     id: 1,
-    name: 'Sarah Mitchell',
-    role: 'Chief Executive Officer',
-    bio: 'With over 15 years of experience in digital marketing, Sarah leads our agency with a vision for innovation and client success. She has helped hundreds of businesses achieve their digital marketing goals.',
-    image: '👩‍💼',
-    expertise: ['Strategy', 'Leadership', 'Client Relations'],
+    name: 'Amod Kumar',
+    role: 'Founder & Lead Strategist',
+    bio: 'With over 8 years of experience in digital marketing, Amod leads the agency with a data-driven approach. He specializes in delivering 300%+ ROI for clients through SEO, PPC, and Social Media.',
+    image: '👨‍💼',
+    expertise: ['Digital Strategy', 'ROI Optimization', 'Lead Generation'],
     social: {
-      linkedin: 'https://linkedin.com',
-      twitter: 'https://twitter.com',
+      linkedin: 'https://linkedin.com/in/amodkumar',
+      twitter: 'https://twitter.com/amodkumar',
     }
   },
   {
