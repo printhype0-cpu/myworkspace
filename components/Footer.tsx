@@ -56,10 +56,10 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <div className="text-2xl font-bold text-white mb-4" style={{ fontFamily: 'Poppins, sans-serif' }}>
-              DMA<span className="text-[#FF6B35]">.</span>
+              AMOD<span className="text-[#FF6B35]">KUMAR</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Your trusted partner in digital marketing excellence. We help businesses grow through data-driven strategies.
+              Your trusted partner in digital marketing excellence. Amod Kumar helps businesses grow through data-driven strategies and innovative marketing solutions.
             </p>
             <div className="flex space-x-4">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#0066CC] transition-colors">
@@ -117,8 +117,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={20} className="text-[#FF6B35] flex-shrink-0" />
-                <a href="mailto:info@dma.com" className="text-gray-400 hover:text-[#0066CC] transition-colors">
-                  info@dma.com
+                <a href="mailto:hello@amodkumar.com" className="text-gray-400 hover:text-[#0066CC] transition-colors">
+                  hello@amodkumar.com
                 </a>
               </li>
             </ul>
@@ -130,7 +130,7 @@ const Footer = () => {
       <div className="border-t border-gray-800">
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-gray-400 text-sm">
-            <p>&copy; 2024 Digital Marketing Agency. All rights reserved.</p>
+            <p>&copy; 2024 Amod Kumar. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link href="/privacy" className="hover:text-[#0066CC] transition-colors">Privacy Policy</Link>
               <Link href="/terms" className="hover:text-[#0066CC] transition-colors">Terms of Service</Link>
